@@ -1,0 +1,3 @@
+[agent]
+name = "voicedesk-ai"
+entrypoint = "src/agent.py"
